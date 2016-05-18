@@ -7,6 +7,6 @@ openstax/exchange @ 89ee45c2c2da579a9b1ad8de9c73e2ff29996923
 openstax/exchange-js @ 18b98ae52de1a85e804794ba6bb55f8778a1e274
 openstax/exercises @ db990a8d9fa1301f130778d827eb380ba8ea8fb0
 openstax/exercises-js @ ccc76b1b03d187d0432cedc8f83632ef88dce4d4
-openstax/tutor-deployment @ 05523771ff3502d0bfb7e571400c3560e3e71d3b
-openstax/tutor-js @ 21489aed06ac2d2c0cd353902ccfeb1e6ff73433
+openstax/tutor-deployment @ 22f4f658cd6e73d7e336cca85e7ae60189bc5e65
+openstax/tutor-js @ d8daba7b0aaf0daecd3bfdc4ec088bf211ed1f29
 openstax/tutor-server @ 925a7e3759dfa1e017b18ef2d41ccdef73445124
