@@ -1,2 +1,4 @@
-openstax/os-webview @ 3cb872452f7634e6b0d1d91b659d32cd8caeb063
-openstax/oscms-deployment @ 16c208bce57692234b840352b98e4f942f62cea7
+openstax/openstax-cms @ e1e11bda440dda451a9ceffe077ed61df7927dcb
+openstax/os-webview @ bcc2fabb12c3268ebbb82b021b01ff9755b82627
+openstax/oscms-deployment @ 5b4008c1f9a44a9f7ef16610d38c71690f2f2a12
+openstax/tutor-deployment @ 6d93b736d0d17dbce7c187b3b78820e9dd75388b
