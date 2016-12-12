@@ -1,4 +1,4 @@
-openstax/accounts @ e678e939607f475ca75abd635f9df4295c1de8aa
+openstax/accounts @ 4b72a3f0e7d8607fd80a8a94721d004e8a11c9d7
 openstax/biglearn-algs @ 1504278f2e2e576a317409df30bda05d057a7c3f
 openstax/biglearn-common @ e986098e636b8f2153c8c1e6353ae61ea4625e63
 openstax/biglearn-demos @ b6b50960d45ac2bd2772614d7a41fe91d5ab1f6d
@@ -8,6 +8,6 @@ openstax/exchange-js @ 18b98ae52de1a85e804794ba6bb55f8778a1e274
 openstax/exercises @ 11513c8d06c4f3b2fe9cb5933fcab9b301250f62
 openstax/exercises-js (exercises-js.OLD) @ 3fdce5ef0a1058bc48c7b01bed9791fc1d6e67b8
 openstax/tutor-deployment @ a9d484ee1e653cd56ae4bf9742994196296f1313
-openstax/tutor-js @ 9fa6167259d3d5d6a83effb0b27c2c9c36d407d8
+openstax/tutor-js @ f24cdf0dc8ff91b70e563213cfd9a5d934a23f8f
 openstax/tutor-js (exercises-js) @ 1953adb1e8adca539123df2613063e9a889d7f50
-openstax/tutor-server @ e54cf7e3a1ee1192fdbd0bc31771e848f08b036a
+openstax/tutor-server @ 72336e0948b0b8293203a135c9d9aba3e5964e32
