@@ -1,5 +1,5 @@
 [accounts] openstax/accounts@4610221089
-[coach-js] openstax/tutor-js@0c55f534f7
-[tutor-deployment] openstax/tutor-deployment@9f69ea3d30
-[tutor-js] openstax/tutor-js@0c55f534f7
+[coach-js] openstax/tutor-js@67224e267c
+[tutor-deployment] openstax/tutor-deployment@9ef600a2e2
+[tutor-js] openstax/tutor-js@67224e267c
 [tutor-server] openstax/tutor-server@d626c6acea
