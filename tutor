@@ -1,10 +1,12 @@
 [accounts] openstax/accounts@656cac4a97
 [coach-js] openstax/tutor-js@67224e267c
+[exercises-js] openstax/tutor-js@86827f35b8
+[exercises] openstax/exercises@11513c8d06
 [maintenance]@05ec4a2164
 [openstax-cms] openstax/openstax-cms@db01526c7c
 [os-webview] openstax/os-webview@4eabd093b2
 [oscms-deployment] openstax/oscms-deployment@50ce0e733a
 [tutor-deployment-1] openstax/tutor-deployment@0632bb6aa6
 [tutor-deployment] openstax/tutor-deployment@68dd634c43
-[tutor-js] openstax/tutor-js@84d197e9b0
-[tutor-server] openstax/tutor-server@2736823237
+[tutor-js] openstax/tutor-js@86827f35b8
+[tutor-server] openstax/tutor-server@dfbf5f6dd5
