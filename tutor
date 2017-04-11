@@ -1,7 +1,7 @@
 [accounts] openstax/accounts@656cac4a97
 [amanda-deployment] openstax/tutor-deployment@4d09dc6386
 [biglearn-api] openstax/biglearn-api@c71477997d
-[biglearn-scheduler] openstax/biglearn-scheduler@78a9beb034
+[biglearn-scheduler] openstax/biglearn-scheduler@c8e4361437
 [coach-js] openstax/tutor-js@67224e267c
 [exercises-js] openstax/tutor-js@86827f35b8
 [exercises] openstax/exercises@11513c8d06
