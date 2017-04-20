@@ -1,13 +1,17 @@
-/openstax/biglearn-algs @ 1504278f2e2e576a317409df30bda05d057a7c3f
-/openstax/biglearn-common @ e986098e636b8f2153c8c1e6353ae61ea4625e63
-/openstax/biglearn-demos @ b6b50960d45ac2bd2772614d7a41fe91d5ab1f6d
-/openstax/biglearn-platform @ 1f43f38ff1738c8977f8f9039a7b81f4977d2153
-openstax/accounts @ 55124d7efac673dda155d6228458186f2f443bbf
+openstax/accounts @ faf0ae7770fcddca5b3193c2bc8d28bb9a610b23
+openstax/biglearn-algs @ 1504278f2e2e576a317409df30bda05d057a7c3f
+openstax/biglearn-api @ d7d9e16fe48f08d65a92b70d51565bfd71f412ab
+openstax/biglearn-common @ e986098e636b8f2153c8c1e6353ae61ea4625e63
+openstax/biglearn-demos @ b6b50960d45ac2bd2772614d7a41fe91d5ab1f6d
+openstax/biglearn-local-query @ 5fd52dc26c614ac461d5a7411df1e97c51ef9118
+openstax/biglearn-platform @ 1f43f38ff1738c8977f8f9039a7b81f4977d2153
+openstax/biglearn-scheduler @ d0ffd9650ec0b75eafd05fdaa819238727fa9759
 openstax/exchange @ 0e954077d730e588174ca8fa7fdf66f393128849
 openstax/exchange-js @ 18b98ae52de1a85e804794ba6bb55f8778a1e274
-openstax/exercises @ 8c61f2e0a9dc4b17cb2e5bff640518515042cbfc
-openstax/tutor-deployment @ 241bb225a25eac24de9d12da567c3dd21360c182
-openstax/tutor-deployment (tutor-deployment.orig) @ ccae62a4d8080585f7f7a649371b66e7c5b0b40e
-openstax/tutor-js @ 52e30f97d44e0bd2dd51a8a921671ce91e73ca67
-openstax/tutor-js (exercises-js) @ 52e30f97d44e0bd2dd51a8a921671ce91e73ca67
+openstax/exercises @ 1a746e90510db1ca9c31ded5bd29aba74156db61
+openstax/exercises-js (exercises-js.OLD) @ 3f22195c535a1e1aaa29d94607d28ef7013aec3f
+openstax/tutor-deployment @ 81eafb58c6e25525fe2ca71ae3d585f751072d01
+openstax/tutor-deployment (amanda-deployment) @ 9c7fa7763244437eed13ba132d1c84f11de42d0b
+openstax/tutor-js @ 92c6306c1a42d5a81fc096b5210f7f8634721d59
+openstax/tutor-js (exercises-js) @ 730a22f35c502a59d8d8a119961142b937ee56a2
 openstax/tutor-server @ 9aea9e844651693020e074d9ebae2ef06bf0cf2e
