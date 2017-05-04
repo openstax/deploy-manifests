@@ -14,4 +14,4 @@ openstax/tutor-deployment @ 81eafb58c6e25525fe2ca71ae3d585f751072d01
 openstax/tutor-deployment (amanda-deployment) @ 5b0112aa9013506f2d3f0f964ede9c20381ace19
 openstax/tutor-js @ c0268c37b36c39c4d5121a71c612d2d5ff39c433
 openstax/tutor-js (exercises-js) @ 730a22f35c502a59d8d8a119961142b937ee56a2
-openstax/tutor-server @ fb3a1fced51ef3267f73437e90c33c092e8f8fc7
+openstax/tutor-server @ 35f7845aff1a97b0a859d2d0c8f43d23bd97ad0d
