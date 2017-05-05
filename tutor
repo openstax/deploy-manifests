@@ -1,5 +1,5 @@
 [accounts] openstax/accounts@656cac4a97
-[amanda-deployment] openstax/tutor-deployment@a1b91447d9
+[amanda-deployment] openstax/tutor-deployment@5b5246c795
 [biglearn-api] openstax/biglearn-api@d7d9e16fe4
 [biglearn-local-query] openstax/biglearn-local-query@5fd52dc26c
 [biglearn-scheduler] openstax/biglearn-scheduler@d0ffd9650e
