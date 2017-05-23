@@ -1,11 +1,11 @@
 openstax/accounts @ faf0ae7770fcddca5b3193c2bc8d28bb9a610b23
 openstax/biglearn-algs @ 1504278f2e2e576a317409df30bda05d057a7c3f
-openstax/biglearn-api @ 94129b5914b2b6394b7d1780b6020332d8836f70
+openstax/biglearn-api @ 5de2fc7f8a734d47db3ae78a5f730c7553f47c4b
 openstax/biglearn-common @ e986098e636b8f2153c8c1e6353ae61ea4625e63
 openstax/biglearn-demos @ b6b50960d45ac2bd2772614d7a41fe91d5ab1f6d
 openstax/biglearn-local-query @ fcb2d505d941076bb1d08ab8a9b6f4d80a80fde8
 openstax/biglearn-platform @ 1f43f38ff1738c8977f8f9039a7b81f4977d2153
-openstax/biglearn-scheduler @ 5338776016bda57d09c2547ce084a6580d19ce8f
+openstax/biglearn-scheduler @ f8fdf962c58f40f5b989ed376d1806dd1447a53e
 openstax/exchange @ 0e954077d730e588174ca8fa7fdf66f393128849
 openstax/exchange-js @ 18b98ae52de1a85e804794ba6bb55f8778a1e274
 openstax/exercises @ 1a746e90510db1ca9c31ded5bd29aba74156db61
