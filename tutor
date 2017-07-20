@@ -2,10 +2,10 @@ openstax/accounts @ 5db44ddf78bcc2e9d55b17ca49d472fd3ca86d5b
 openstax/biglearn-api @ bb22cb7e3ea3c28c27f04970ba6e8edc3f0e03ab
 openstax/biglearn-local-query @ fcb2d505d941076bb1d08ab8a9b6f4d80a80fde8
 openstax/biglearn-scheduler @ d45334310770ab086fbb977869f9e30d5bedd0c2
-openstax/exercises @ c0900b807c36b5603097a5b82414ea06b56664af
+openstax/exercises @ f463f2d62fe2db88abc8330b346f7ece9bda9275
 openstax/exercises-js (exercises-js.OLD) @ 3fdce5ef0a1058bc48c7b01bed9791fc1d6e67b8
 openstax/tutor-deployment @ 45b5116274f89863894fab43bae7a92697aee523
 openstax/tutor-deployment (amanda-deployment) @ 459a75c42f18b0ded814e53471558c8f03b91366
 openstax/tutor-js @ fe34d8e686e7c91c18b7a436c4dd72c00a2d0e88
-openstax/tutor-js (exercises-js) @ fe34d8e686e7c91c18b7a436c4dd72c00a2d0e88
+openstax/tutor-js (exercises-js) @ b81917380709206e651ee97fd5d9321bee1acfcf
 openstax/tutor-server @ 9c3bf18ddc7e3fd4f0defc5cff664b9cf6277776
