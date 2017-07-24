@@ -1,7 +1,7 @@
 [accounts] openstax/accounts@05817406b8
 [biglearn-api] openstax/biglearn-api@56563bbe66
 [biglearn-local-query] openstax/biglearn-local-query@60f3499582
-[biglearn-scheduler] openstax/biglearn-scheduler@f2cc97b93f
+[biglearn-scheduler] openstax/biglearn-scheduler@4f71c9f872
 [coach-js] openstax/tutor-js@8b2dbf8b0d
 [exercises-js] openstax/tutor-js@8b2dbf8b0d
 [exercises] openstax/exercises@59c34f62d5
