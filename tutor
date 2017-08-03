@@ -5,6 +5,6 @@ openstax/biglearn-scheduler @ d45334310770ab086fbb977869f9e30d5bedd0c2
 openstax/exercises @ 712a986fb9af5be5d902f4f73bb8b737d9c37823
 openstax/exercises-js (exercises-js.OLD) @ 3fdce5ef0a1058bc48c7b01bed9791fc1d6e67b8
 openstax/tutor-deployment @ 6f79a55fe77b990decca70baa48bbb6fec3c3351
-openstax/tutor-js @ fedaa6b0cff56f9869191c29482191638bf9df6e
+openstax/tutor-js @ c6df34e5a74d622747d20bee3c9c0bf96707b631
 openstax/tutor-js (exercises-js) @ c6df34e5a74d622747d20bee3c9c0bf96707b631
-openstax/tutor-server @ 9dd1350e79ec6b83ff80b845f746774f1af27460
+openstax/tutor-server @ 4ce449f20ea56c7be0a1b53e3474ef9989bb4807
