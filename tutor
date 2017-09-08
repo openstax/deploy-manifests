@@ -6,5 +6,5 @@ openstax/exercises @ 712a986fb9af5be5d902f4f73bb8b737d9c37823
 openstax/exercises-js (exercises-js.OLD) @ 3fdce5ef0a1058bc48c7b01bed9791fc1d6e67b8
 openstax/tutor-deployment @ 6d75a35788309552ec08acbe85b292c9f880657e
 openstax/tutor-js @ 375b9dd0c38d85aff72042bce8d187283f7ec606
-openstax/tutor-js (exercises-js) @ 9a02cb6f5dd49d8a97519e854520696cfb101c2b
+openstax/tutor-js (exercises-js) @ 375b9dd0c38d85aff72042bce8d187283f7ec606
 openstax/tutor-server @ 0509d59c0aa8662ee38b560a27d26870222062bc
