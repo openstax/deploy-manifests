@@ -1,8 +1,4 @@
 [accounts] openstax/accounts@27fec15d61
-[biglearn-algs] openstax/biglearn-algs@1504278f2e
-[biglearn-common] openstax/biglearn-common@e986098e63
-[biglearn-demos] openstax/biglearn-demos@b6b50960d4
-[biglearn-platform] openstax/biglearn-platform@099a823128
-[tutor-deployment] /openstax/tutor-deployment@39011e936f
+[tutor-deployment] /openstax/tutor-deployment@6a549c6d4f
 [tutor-js] openstax/tutor-js@f39e218a35
 [tutor-server] openstax/tutor-server@6d2bbce057 # release-10-04-17
