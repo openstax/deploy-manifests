@@ -1,4 +1,5 @@
-[accounts] openstax/accounts@27fec15d61
-[tutor-deployment] /openstax/tutor-deployment@646c7961d1
-[tutor-js] openstax/tutor-js@f39e218a35
-[tutor-server] openstax/tutor-server@6eb684c8c5
+[biglearn-api] openstax/biglearn-api@1425650747
+[biglearn-local-query] openstax/biglearn-local-query@1ac880e206
+[biglearn-scheduler] openstax/biglearn-scheduler@b1d57ce2a6
+[biglearn-sparfa-server] openstax/biglearn-sparfa-server@640798d51d
+[tutor-deployment] openstax/tutor-deployment@1b285b1579
