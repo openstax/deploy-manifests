@@ -1,9 +1,6 @@
-[accounts] openstax/accounts@05817406b8
-[biglearn-api] openstax/biglearn-api@1425650747
-[biglearn-local-query] openstax/biglearn-local-query@1ac880e206
-[biglearn-scheduler] openstax/biglearn-scheduler@b1d57ce2a6
-[exercises-js] openstax/tutor-js@8b2dbf8b0d
-[exercises] openstax/exercises@59c34f62d5
-[tutor-deployment] openstax/tutor-deployment@1b285b1579
+[accounts] openstax/accounts@376b3fc79b
+[exercises-js] openstax/tutor-js@e798d8250a
+[exercises] openstax/exercises@712a986fb9
+[tutor-deployment] openstax/tutor-deployment@646c7961d1
 [tutor-js] openstax/tutor-js@f39e218a35
-[tutor-server] openstax/tutor-server@61cfa411e2
+[tutor-server] openstax/tutor-server@6d2bbce057 # release-10-04-17
