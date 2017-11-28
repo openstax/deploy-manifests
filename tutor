@@ -4,6 +4,6 @@
 [biglearn-scheduler] openstax/biglearn-scheduler@d453343107
 [exercises-js] openstax/tutor-js@ccd08965c2
 [exercises] openstax/exercises@3fd5b67210
-[tutor-deployment] openstax/tutor-deployment@d5d0d9d89a
-[tutor-js] openstax/tutor-js@5052c21728
-[tutor-server] openstax/tutor-server@21a3544d1d
+[tutor-deployment] openstax/tutor-deployment@63acd15771
+[tutor-js] openstax/tutor-js@24e99d7a40
+[tutor-server] openstax/tutor-server@603db54da9
