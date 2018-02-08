@@ -1,4 +1,4 @@
 [accounts] openstax/accounts@0e176428d2
 [tutor-deployment] openstax/tutor-deployment@552b41e805
 [tutor-js] openstax/tutor-js@5e1a10e06d # v20180129
-[tutor-server] openstax/tutor-server@3c138b630c
+[tutor-server] openstax/tutor-server@99b3ff875c
