@@ -6,5 +6,5 @@
 [exercises-js] openstax/tutor-js@fca04cfe3a
 [exercises] openstax/exercises@38cc374ed2
 [tutor-deployment] openstax/tutor-deployment@471bcd87f9
-[tutor-js] openstax/tutor-js@55d8ab1699
-[tutor-server] openstax/tutor-server@4904dab1ff
+[tutor-js] openstax/tutor-js@0c091f8afb
+[tutor-server] openstax/tutor-server@617d5e0da7
