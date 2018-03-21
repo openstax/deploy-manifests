@@ -1,10 +1,10 @@
 [accounts] openstax/accounts@45461875b3
-[biglearn-api] openstax/biglearn-api@269d974c9d
+[biglearn-api] openstax/biglearn-api@9342926d35
 [biglearn-local-query] openstax/biglearn-local-query@cd34504c5d
-[biglearn-scheduler] openstax/biglearn-scheduler@a121109173
-[biglearn-sparfa-server] openstax/biglearn-sparfa-server@9321b8f01c
-[exercises-js] openstax/tutor-js@207d7eaa10
-[exercises] openstax/exercises@6ffb959856
+[biglearn-scheduler] openstax/biglearn-scheduler@95961e1ecd
+[biglearn-sparfa-server] openstax/biglearn-sparfa-server@640798d51d
+[exercises-js] openstax/tutor-js@f091bf827e
+[exercises] openstax/exercises@38cc374ed2
 [tutor-deployment] openstax/tutor-deployment@497db748d0
-[tutor-js] openstax/tutor-js@740cc7a71f
-[tutor-server] openstax/tutor-server@24cae09109
+[tutor-js] openstax/tutor-js@f091bf827e
+[tutor-server] openstax/tutor-server@111e8bc711
