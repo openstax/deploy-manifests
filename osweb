@@ -1,3 +1,4 @@
-[openstax-cms] openstax/openstax-cms@c3bb18caa0
-[os-webview] openstax/os-webview@57bc85e0c2
-[oscms-deployment] openstax/oscms-deployment@0d3161063d
+[openstax-cms] openstax/openstax-cms@c3bb18caa0 # 2.3.1
+[os-webview] openstax/os-webview@995fae36fc # v2.7.0
+[oscms-deployment] openstax/oscms-deployment@343bf97597
+[tutor-deployment] openstax/tutor-deployment@6d93b736d0
