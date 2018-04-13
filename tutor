@@ -1,6 +1,6 @@
 [accounts] openstax/accounts@af213861a6
 [biglearn-api] openstax/biglearn-api@805ac44357
-[biglearn-local-query] openstax/biglearn-local-query@9b7346cc80
+[biglearn-local-query] openstax/biglearn-local-query@861c061724
 [biglearn-scheduler] openstax/biglearn-scheduler@5a65979a35
 [biglearn-sparfa-server] openstax/biglearn-sparfa-server@9321b8f01c
 [exercises-js] openstax/tutor-js@f091bf827e
