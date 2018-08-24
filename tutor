@@ -1,5 +1,5 @@
 [accounts] openstax/accounts@a27b00ae92
-[biglearn-api] openstax/biglearn-api@9e3377c60f
+[biglearn-api] openstax/biglearn-api@0e977405de
 [biglearn-local-query] openstax/biglearn-local-query@a513e77523
 [biglearn-scheduler] openstax/biglearn-scheduler@1ec221dbb3
 [biglearn-sparfa-server] openstax/biglearn-sparfa-server@8af4a72653
