@@ -3,7 +3,7 @@
 [biglearn-local-query] openstax/biglearn-local-query@cee7683b0c
 [biglearn-scheduler] openstax/biglearn-scheduler@379fca72ad
 [biglearn-sparfa-server] openstax/biglearn-sparfa-server@9321b8f01c
-[exercises-js] openstax/tutor-js@1730d6ca6c
+[exercises-js] openstax/tutor-js@fd4c46c8c4
 [exercises] openstax/exercises@07f9b958e2
 [tutor-deployment] openstax/tutor-deployment@ad38692bc1
 [tutor-js] openstax/tutor-js@fd4c46c8c4
