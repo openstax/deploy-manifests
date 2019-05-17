@@ -1,4 +1,4 @@
-[accounts] openstax/accounts@c2b163452d
+[accounts] openstax/accounts@1dd7451de2 # v1.7.0
 [biglearn-api] openstax/biglearn-api@416475414a
 [biglearn-local-query] openstax/biglearn-local-query@947b7dcab3
 [biglearn-scheduler] openstax/biglearn-scheduler@f45ca2bc36
