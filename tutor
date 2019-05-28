@@ -5,6 +5,6 @@
 [biglearn-sparfa-server] openstax/biglearn-sparfa-server@17eec3fbe3
 [exercises-js] openstax/tutor-js@e270b17cd5
 [exercises] openstax/exercises@99cb773a47
-[tutor-deployment] openstax/tutor-deployment@92266917f2
+[tutor-deployment] openstax/tutor-deployment@e973ac04a7
 [tutor-js] openstax/tutor-js@e7b59e5dbf # v19.1.6
 [tutor-server] openstax/tutor-server@5686546863
